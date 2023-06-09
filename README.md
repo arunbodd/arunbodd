@@ -9,5 +9,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning how to modularize tools
 - 📫 How to reach me: arunbodd at outlook (dot) com
 
-[![ArunBoddapati's GitHub stats](https://github-readme-stats.vercel.app/api?username=arunbodd&show_icons=true)](https://github.com/arunbodd/github-readme-stats)
+[![ArunBoddapati's GitHub stats](https://github-readme-stats.vercel.app/api?username=arunbodd&show_icons=true)
 -->
