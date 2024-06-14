@@ -4,4 +4,4 @@
 - 🌱 I’m currently learning how to modularize tools
 - 📫 How to reach me: arunbodd at outlook (dot) com
 
-![ArunBoddapati's GitHub stats](https://github-readme-stats.vercel.app/api?username=arunbodd&show_icons=true)
+![ArunBoddapati's GitHub stats](https://github-readme-stats.vercel.app/api?username=arunbodd&show_icons=false)
