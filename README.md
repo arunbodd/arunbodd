@@ -12,5 +12,5 @@
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=arunbodd&show_icons=true&custom_title=GitHub%20%stats&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff&hide_border=true",height="200",alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunbodd&layout=compact&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff&hide_border=true",height="200",alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunbodd&hide=html&layout=compact&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff&hide_border=true",height="200",alt="Top Languages"/>
 </div>
