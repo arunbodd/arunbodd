@@ -21,7 +21,7 @@
 
 ### 📊 GitHub Analytics
 
-<div align="center">
+<div align="Left">
   <img src="https://github-readme-stats.vercel.app/api?username=arunbodd&show_icons=true&custom_title=GitHub%20Statistics&title_color=64ffda&text_color=ccd6f6&icon_color=64ffda&bg_color=0a192f&hide_border=true" height="200" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunbodd&hide=html&layout=compact&title_color=64ffda&text_color=ccd6f6&icon_color=64ffda&bg_color=0a192f&hide_border=true" height="200" alt="Top Languages"/>
 </div>
