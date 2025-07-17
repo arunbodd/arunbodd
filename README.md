@@ -6,7 +6,7 @@
 
 - 😊 **Pronouns**: He/Him
 - 🎓 **Education**: Dual Master's degrees in Bioinformatics and Biomedical Sciences from Indiana University, USA and Symbiosis University, India
-- 💼 **Experience**: 8+ years of expertise in computational biology and bioinformatics
+- 💼 **Experience**: 9 years of expertise in computational biology/bioinformatics.
 - 🔬 **Current Role**: Lead Scientist developing AI-driven solutions for complex biological problems
 - 🚀 **Focus Areas**: Multi-Omics, Immunology, Infectious Diseases, Wastewater Surveillance, and Machine Learning applications in Biology
 - 🧠 **Currently Learning**: GenAI applications to Bioinformatics, LangChain tools & toolkits, and advanced ML for rare diseases
