@@ -43,8 +43,8 @@
 
 ### 🏅 Career Highlights
 
-- 🔬 **600+ Citations**: Co-Authored several high impact publications that showcases my skills in Bioinformatics/Data Science.
-- 🌊 **CDC Pipeline**: Developed Aquascope for national wastewater surveillance
+- 🔬 **720+ Citations**: Co-Authored several high impact publications that showcases my skills in Bioinformatics/Data Science.
+- 🌊 **CDC Pipeline**: Developed [Aquascope](https://github.com/CDCgov/aquascope) for national wastewater surveillance
 - 🤖 **AI Innovation**: Created NexAI RAG tool for pipeline compliance validation
 - 🌍 **Global Recognition**: Top performer in WHO's international disease surveillance response (Monkey Pox)
 
