@@ -14,8 +14,8 @@
 - 🏆 **Recent Achievement**: Top 8 ranking in WHO's global mock Mpox response (80+ teams worldwide)
 - 🧬 **Specialties**: 
   - Developed Aquascope Nextflow pipeline for SARS-CoV-2 wastewater reporting at CDC
-  - Created NexAI: RAG-based tool for nf-core pipeline compliance validation
-  - Expertise in single-cell RNA sequencing and metagenomics analysis
+  - Created an nf-core compliance checker: Rule chunking tool for nf-core pipeline compliance validation
+  - Expertise in Transcriptomics (scRNA, RNA, Novel transcripts, Alternate splicing, RNA Binding proteins), Whole Genome/Exome (Variant analysis), Proteomics (Mass Spec and Targetted NULISA panel) and Metagenomics analysis (Variant analysis and Phylogenetics)
 
 ---
 
@@ -45,8 +45,10 @@
 
 - 🔬 **720+ Citations**: Co-Authored several high impact publications that showcases my skills in Bioinformatics/Data Science.
 - 🌊 **CDC Pipeline**: Developed [Aquascope](https://github.com/CDCgov/aquascope) for national wastewater surveillance
-- 🤖 **AI Innovation**: Created NexAI RAG tool for pipeline compliance validation
-- 🌍 **Global Recognition**: Top performer in WHO's international disease surveillance response (Monkey Pox)
+- 🤖 **AI Innovation**:
+    - Created nf-core compliance checker Rule chunking tool for pipeline compliance validation.
+    -   Actively working on establishing a prompt framework for nextflow pipeline refactoring and validation
+- 🌍 **Global Recognition**: Top scorer in WHO's international disease surveillance response (Monkey Pox) preparedness competition.
 
 ---
 
