@@ -1,6 +1,6 @@
 <h1 align="center">Hi there! I'm Arun Boddapati 👋</h1>
 
-<h3 align="center">Lead Scientist | Machine Learning Expert | Bioinformatics Researcher</h3>
+<h3 align="center">Data Scientist | Machine Learning Expert | Focus Area: Bioinformatics and Public Health</h3>
 
 ---
 
