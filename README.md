@@ -15,22 +15,22 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 😊 **Pronouns**: He/Him
+- **Pronouns**: He/Him
 - 🎓 **Education**: Dual Master's degrees in Bioinformatics and Biomedical Sciences from Indiana University, USA and Symbiosis University, India
 - 💼 **Experience**: 9 years of expertise in computational biology/bioinformatics
-- 🔬 **Current Role**: Lead Scientist developing AI-driven solutions for complex biological problems
+- **Current Role**: Lead Scientist developing AI-driven solutions for complex biological problems
 - 🎯 **Focus Areas**: Multi-Omics, Immunology, Infectious Diseases, Wastewater Surveillance, and Machine Learning applications in Biology
 - 🧠 **Currently Learning**: GenAI applications to Bioinformatics, LangChain tools & toolkits, and advanced ML for rare diseases
 - 💻 **Tech Stack**: Python, R, Nextflow, AWS, Docker, and exploring AI solutions in biology
 - 🏆 **Recent Achievement**: Top 8 ranking in WHO's global mock Mpox response (80+ teams worldwide)
 
-### 🧬 Specialties
+### Specialties
 
 - 🌊 Developed [Aquascope](https://github.com/CDCgov/aquascope) Nextflow pipeline for SARS-CoV-2 wastewater reporting at CDC
 - ✅ Created an nf-core compliance checker: Rule chunking tool for nf-core pipeline compliance validation
-- 🔬 Expertise in:
+- ✅ Expertise in:
   - **Transcriptomics**: scRNA, RNA-seq, Novel transcripts, Alternate splicing, RNA Binding proteins
   - **Genomics**: Whole Genome/Exome sequencing, Variant analysis
   - **Proteomics**: Mass Spec and Targeted NULISA panel
