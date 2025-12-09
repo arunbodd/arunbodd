@@ -38,22 +38,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arunbodd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&border_radius=10)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arunbodd&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FF6B6B&currStreakLabel=C9D1D9&border_radius=10)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arunbodd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=10&langs_count=8)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=arunbodd&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6B6B&area=true&radius=10)
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=arunbodd&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
-
-</div>
-
----
-
 ## 🏅 Career Highlights
 
 <table align="center">
@@ -69,12 +53,6 @@
     <td align="center" width="33%">
       <h3>🤖 AI Innovation</h3>
       <p>Created nf-core compliance checker and prompt framework for Nextflow pipeline refactoring</p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="3">
-      <h3>🌍 Global Recognition</h3>
-      <p>Top scorer in WHO's international Mpox disease surveillance response preparedness competition</p>
     </td>
   </tr>
 </table>
