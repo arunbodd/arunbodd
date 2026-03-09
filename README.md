@@ -43,7 +43,7 @@
 <table align="center">
   <tr>
     <td align="center" width="33%">
-      <h3>📚 720+ Citations</h3>
+      <h3>📚 800+ Citations</h3>
       <p>Co-Authored several high impact publications showcasing my skills in Bioinformatics/Data Science</p>
     </td>
     <td align="center" width="33%">
