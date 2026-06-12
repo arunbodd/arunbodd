@@ -1,109 +1,257 @@
-# Arun Kumar Boddapati
+<!-- ====================== HEADER BANNER ====================== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Arun%20Kumar%20Boddapati&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Computational%20Genomics%20%C2%B7%20AI%2FML%20%C2%B7%20Public%20Health&descAlignY=54&descSize=18" alt="header"/>
 
-**Independent AI Strategy Consultant & Systems Architect** — computational genomics, AI/ML, and public health. Based in Atlanta, GA.
+<!-- ====================== TYPING ANIMATION ====================== -->
+<p align="center">
+  <a href="https://github.com/arunbodd">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=64FFDA&center=true&vCenter=true&width=720&lines=Strategic+Computational+Genomics+Leader;9+Years+%C2%B7+Research+to+Clinical+Implementation;LLM+%2B+RAG+%2B+Agentic+Systems+for+Life+Sciences;Architecting+Reproducible+Nextflow+Pipelines;Turning+Biological+Complexity+into+Computational+Clarity" alt="Typing SVG" />
+  </a>
+</p>
 
-[Portfolio](https://arunbodd.github.io/Portfolio) · [AIVA](https://chat.aivaportal.com/) · [Google Scholar](https://scholar.google.com/citations?user=ni4A6KgAAAAJ&hl=en) · [LinkedIn](https://www.linkedin.com/in/arunbodd/) · [arunbodd@outlook.com](mailto:arunbodd@outlook.com)
+<!-- ====================== SOCIAL LINKS ====================== -->
+<p align="center">
+  <a href="https://arunbodd.github.io/Portfolio"><img src="https://img.shields.io/badge/Portfolio-1f6feb?style=for-the-badge" alt="Portfolio"></a>
+  <a href="https://chat.aivaportal.com/"><img src="https://img.shields.io/badge/AIVA%20Platform-7C3AED?style=for-the-badge" alt="AIVA"></a>
+  <a href="https://scholar.google.com/citations?user=ni4A6KgAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge" alt="Google Scholar"></a>
+  <a href="https://www.linkedin.com/in/arunbodd/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge" alt="LinkedIn"></a>
+  <a href="mailto:arunbodd@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge" alt="Email"></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=arunbodd&color=64ffda&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+  <img src="https://img.shields.io/badge/Based%20in-Atlanta,%20GA-64ffda?style=for-the-badge" alt="Location"/>
+</p>
 
 ---
 
-## About
+## About Me
 
-Computational scientist with nine years bridging bioinformatics and clinical implementation. Currently independent — building agentic AI tooling for Nextflow pipelines, advising a clinical-AI startup, and leading proteomics research.
+```python
+class ArunBoddapati(BioinformaticsScientist):
+    def __init__(self):
+        self.role        = "Independent AI Strategy Consultant & Systems Architect"
+        self.experience  = "9 years · computational genomics → clinical impact"
+        self.education   = ["MS Bioinformatics, Indiana University",
+                            "MS Biomedical Sciences, Symbiosis University"]
+        self.focus       = ["Multi-Omics", "Immunology", "Infectious Disease",
+                            "Rare Disease Diagnostics", "GenAI for Biology"]
+        self.currently   = "Building RAG + agentic AI for variant interpretation"
 
-- **Independent AI Strategy Consultant & Systems Architect** — building [CodAIs](https://arunbodd.github.io/codaris/), a deterministic multi-agent orchestrator for Nextflow pipelines, with a decoupled LLM core and a live Nextflow trace parser.
-- **Strategy Advisor, Mamidi Health** — led the four-month commercial launch of [AIVA](https://chat.aivaportal.com/), a clinical variant-interpretation platform, benchmarked at a 94% case-solve rate and 80.5% F1 against Exomiser, LIRICAL, BIAS-2015, and InterVar.
-- **Academic Consultant, Dr. Pant Lab (Emory)** — targeted NULISA-Seq proteomics for ALS and VCP-related neurodegeneration, published in *HGG Advances* (Cell Press).
-- **Earlier:** Nearly four years at CDC's Advanced Molecular Detection programs, growing from analyst to lead scientist — designed an LLM prompt-engineering framework that cut Nextflow development time by 20–80%, and built [Lintelligence](https://github.com/arunbodd/lintelligence), an enterprise LLM-RAG compliance framework.
-- Co-author on 15+ peer-reviewed publications in *Cell*, *Immunity*, and *Science Advances*.
+    def mission(self):
+        return "Transform biological complexity into computational clarity."
+```
+
+- **Independent AI Strategy Consultant & Systems Architect** — building agentic AI tooling, advising clinical-AI startups, and leading proteomics research across concurrent roles
+- **Strategy Advisor** to [Mamidi Health](https://chat.aivaportal.com/) — led the commercial launch of **AIVA**, an AI variant-interpretation platform cutting genetic diagnostics from **weeks → minutes**
+- Designed an **LLM prompt-engineering framework** at CDC that cut Nextflow pipeline development time by **20–80%**
+- Benchmarked AIVA's **RAG-enabled variant interpretation** at a **94% case-solve rate** and **80.5% F1** vs. Exomiser, LIRICAL, BIAS-2015 & InterVar
+- Co-authored **15+ peer-reviewed papers** in *Cell*, *Immunity*, and *Science Advances*
+- **Top 8 of 80+ teams** worldwide in WHO's global mock Mpox response
 
 ---
 
-## Areas of work
+## Career Highlights
+
+<table align="center">
+  <tr>
+    <td align="center" width="25%">
+      <h3>15+ Papers</h3>
+      <sub>Cell · Immunity · Science Advances</sub>
+    </td>
+    <td align="center" width="25%">
+      <h3>AIVA</h3>
+      <sub>94% case-solve · 80.5% F1 · RAG</sub>
+    </td>
+    <td align="center" width="25%">
+      <h3>Aquascope</h3>
+      <sub>CDC SARS-CoV-2 wastewater pipeline</sub>
+    </td>
+    <td align="center" width="25%">
+      <h3>80% Faster</h3>
+      <sub>LLM-driven pipeline automation</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Tech Stack
+
+<table>
+<tr><td valign="top" width="50%">
+
+**AI / Machine Learning**
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square"/>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square"/>
+  <img src="https://img.shields.io/badge/RAG-7C3AED?style=flat-square"/>
+  <img src="https://img.shields.io/badge/MCP-3a3a3a?style=flat-square"/>
+  <img src="https://img.shields.io/badge/LLMs-412991?style=flat-square"/>
+</p>
+
+**Languages**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Groovy-4298B8?style=flat-square"/>
+</p>
+
+</td><td valign="top" width="50%">
+
+**Pipelines & Infrastructure**
+<p>
+  <img src="https://img.shields.io/badge/Nextflow-0DC09D?style=flat-square"/>
+  <img src="https://img.shields.io/badge/nf--core-24B064?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Snakemake-039475?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Singularity-1D355C?style=flat-square"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Slurm-00457C?style=flat-square"/>
+</p>
+
+**Analysis & Reporting**
+<p>
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square"/>
+  <img src="https://img.shields.io/badge/R%20Shiny-2C3E50?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Quarto-39729E?style=flat-square"/>
+</p>
+
+</td></tr>
+</table>
+
+---
+
+## Domain Expertise — *click to expand*
 
 <details>
-<summary><b>Multi-omics &amp; genomics</b></summary>
+<summary><b>Multi-Omics & Genomics</b></summary>
+<br>
 
-| Area | Focus |
-|------|-------|
-| Transcriptomics | Bulk &amp; Iso-Seq RNA-seq, single-cell, spatial, CITE-seq, novel transcripts, alternative splicing, RNA-binding proteins |
-| Genomics | Whole genome / exome sequencing, variant calling, ACMG interpretation |
-| Proteomics | Mass spec, targeted NULISA-Seq and Olink panels |
-| Metagenomics | Variant analysis, molecular epidemiology, phylogenetics |
-| Epigenomics | ChIP-seq, MeRIP-seq |
+| Area | What I do |
+|------|-----------|
+| **Transcriptomics** | Bulk & Iso-Seq RNA-seq, single-cell, spatial, CITE-seq, novel transcripts, alt-splicing, RBPs |
+| **Genomics** | Whole genome / exome sequencing, variant calling & ACMG interpretation |
+| **Proteomics** | Mass spec, targeted NULISA-Seq & Olink panels |
+| **Metagenomics** | Variant analysis, molecular epidemiology, phylogenetics |
+| **Epigenomics** | ChIP-seq, MeRIP-seq |
 
 </details>
 
 <details>
-<summary><b>AI / ML for life sciences</b></summary>
+<summary><b>AI / ML for Life Sciences</b></summary>
+<br>
 
-- LLM workflow design — prompt-engineering frameworks for automated pipeline generation
-- RAG architectures — vector embeddings and semantic search for variant interpretation (AIVA)
-- Agentic systems — MCP-based tool-calling and multi-agent pipeline builders
-- Deep learning — autoencoders for biomarker discovery (silicosis risk stratification)
-- Model evaluation — feature selection and validation for domain-specific biomedical tasks
-
-</details>
-
-<details>
-<summary><b>Pipelines &amp; infrastructure</b></summary>
-
-- Nextflow, nf-core, Snakemake, WDL
-- Docker, Singularity, AWS, Azure
-- Slurm, PBS, SunGridEngine, CI/CD
-- Reproducible, cloud-native workflow design across HPC and cloud
+- **LLM workflow design** — prompt-engineering frameworks for automated pipeline generation
+- **RAG architectures** — vector embeddings + semantic search for variant interpretation (AIVA)
+- **Agentic systems** — MCP-based tool-calling, multi-agent pipeline builders
+- **Deep learning** — autoencoders for biomarker discovery (silicosis risk, 80% accuracy)
+- **Model evaluation** — feature selection & validation for domain-specific biomedical tasks
 
 </details>
 
 <details>
-<summary><b>Leadership &amp; mentorship</b></summary>
+<summary><b>Leadership & Mentorship</b></summary>
+<br>
 
-- Led cross-functional teams of 3–7 across bioinformatics, data engineering, and translational science
-- Mentored junior scientists and CDC trainees through Nextflow and cloud-engineering workshops
-- Delivered $100K+ in cost savings and 20–80% efficiency gains through AI-driven automation
-- Technical roadmap development and stakeholder management with senior leadership
+- Led cross-functional teams of **3–7 FTEs** across bioinformatics, data engineering & translational science
+- Mentored junior scientists and CDC trainees via monthly Nextflow + cloud engineering workshops
+- Delivered **$100K+ cost savings** and **20–80% efficiency gains** through AI-driven automation
+- Stakeholder management & technical roadmap development with senior/executive leadership
 
 </details>
 
 ---
 
-## Toolbox
+## Featured Projects
 
-**Languages** — Python, R, Bash, SQL, Groovy
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**AI / ML** — LLMs, RAG, agentic systems (MCP), prompt engineering, LangGraph, PyTorch, TensorFlow, scikit-learn
+### [Codaris](https://github.com/arunbodd/codaris)
+AI-native, end-to-end **Nextflow pipeline builder** — a team of specialised LLM agents (Claude, Gemini, litellm-compatible).
+<br>`Python` `LLM Agents` `Nextflow`
 
-**Pipelines** — Nextflow, nf-core, Snakemake, WDL, Docker, Singularity, AWS, Azure, Slurm, CI/CD
+</td>
+<td width="50%" valign="top">
 
-**Analysis &amp; reporting** — pandas, NumPy, FastAPI, Pydantic, R Shiny, RMarkdown, Quarto
+### [Lintelligence](https://github.com/arunbodd/lintelligence)
+Intelligent **validation tool** blending LLMs with rule-based static analysis for nf-core & custom Nextflow compliance.
+<br>`Python` `LLM` `Static Analysis`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [nf-core Guidelines Validator](https://github.com/arunbodd/nf-core_guidelines_validator)
+**RAG-based AI agent** that analyzes Nextflow pipelines for nf-core guideline compliance.
+<br>`Python` `RAG` `nf-core`
+
+</td>
+<td width="50%" valign="top">
+
+### [Aquascope](https://github.com/CDCgov/aquascope)
+**CDC** Nextflow pipeline for national **SARS-CoV-2 wastewater** surveillance & reporting.
+<br>`Nextflow` `Public Health` `Genomics`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [NeuralNets101](https://github.com/arunbodd/NeuralNets101)
+Interactive **ML dashboard** with example neural networks for hands-on learning.
+<br>`HTML` `ML` `Education`
+
+</td>
+<td width="50%" valign="top">
+
+### [Portfolio](https://github.com/arunbodd/Portfolio)
+My personal site — bioinformatics, AI, and the work behind it.
+<br>`React` `Styled-Components`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Selected projects
+## GitHub Analytics
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [Codaris](https://github.com/arunbodd/codaris) | AI-native, end-to-end Nextflow pipeline builder driven by a team of specialised LLM agents (Claude, Gemini, litellm). | Python, LLM agents |
-| [Lintelligence](https://github.com/arunbodd/lintelligence) | Validation tool blending LLMs with rule-based static analysis for nf-core and custom Nextflow compliance. | Python, LLM |
-| [nf-core Guidelines Validator](https://github.com/arunbodd/nf-core_guidelines_validator) | RAG-based agent that analyzes Nextflow pipelines for nf-core guideline compliance. | Python, RAG |
-| [Aquascope](https://github.com/CDCgov/aquascope) | CDC Nextflow pipeline for national SARS-CoV-2 wastewater surveillance and reporting. | Nextflow |
-| [NeuralNets101](https://github.com/arunbodd/NeuralNets101) | Interactive ML dashboard with example neural networks for hands-on learning. | HTML, ML |
-| [Portfolio](https://github.com/arunbodd/Portfolio) | Personal site covering my bioinformatics and AI work. | React |
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunbodd&layout=compact&hide_border=true&theme=tokyonight&title_color=64ffda&langs_count=8" alt="Top Languages"/>
+</p>
 
----
-
-## Selected publications
-
-- Dulski J, **Boddapati AK**, et al. (2025). Targeted plasma proteomics uncover proteins associated with KIF5A-linked SPG10 and ALS spectrum disorders. *HGG Advances*.
-- Hoang TN, **Boddapati AK**, et al. (2021). Baricitinib resolves lower-airway macrophage inflammation in SARS-CoV-2-infected rhesus macaques. *Cell*.
-- Routhu NK, incl. **Boddapati AK** (2021). A modified vaccinia Ankara vector-based vaccine protects macaques from SARS-CoV-2. *Immunity*.
-- Holla P, incl. **Boddapati AK** (2020). Shared transcriptional profiles of atypical B cells in malaria, HIV, and autoimmunity. *Science Advances*.
-
-Full list on [Google Scholar](https://scholar.google.com/citations?user=ni4A6KgAAAAJ&hl=en).
+<p align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=arunbodd&theme=tokyo-night&hide_border=true&color=64ffda&line=64ffda&point=ffffff" alt="Activity Graph"/>
+</p>
 
 ---
 
-## Activity
+## Selected Publications
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunbodd&layout=compact&hide_border=true&bg_color=00000000&title_color=0969da&text_color=808080&langs_count=8" alt="Most used languages" width="380"/>
+> **15+ peer-reviewed publications** — a few highlights:
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arunbodd&hide_border=true&bg_color=00000000&color=0969da&line=0969da&point=808080&area=true" alt="Contribution activity" width="100%"/>
+- **Dulski J, _Boddapati AK_, et al.** (2025). Targeted plasma proteomics uncover proteins associated with KIF5A-linked SPG10 and ALS spectrum disorders. *HGG Advances*.
+- **Hoang TN, _Boddapati AK_, et al.** (2021). Baricitinib resolves lower-airway macrophage inflammation in SARS-CoV-2-infected rhesus macaques. *Cell*.
+- **Routhu NK, _incl. Boddapati AK_** (2021). A modified vaccinia Ankara vector-based vaccine protects macaques from SARS-CoV-2. *Immunity*.
+- **Holla P, _incl. Boddapati AK_** (2020). Shared transcriptional profiles of atypical B cells in malaria, HIV, and autoimmunity. *Science Advances*.
+
+<a href="https://scholar.google.com/citations?user=ni4A6KgAAAAJ&hl=en"><img src="https://img.shields.io/badge/Full%20publication%20list-Google%20Scholar-4285F4?style=for-the-badge" alt="Scholar"/></a>
+
+---
+
+<p align="center">
+  <i>"Transforming biological complexity into computational clarity"</i>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
