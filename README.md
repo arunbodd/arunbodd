@@ -29,7 +29,7 @@
 ```python
 class ArunBoddapati(BioinformaticsScientist):
     def __init__(self):
-        self.role        = "Founding Bioinformatics Engineer @ Mamidi Health"
+        self.role        = "Independent AI Strategy Consultant & Systems Architect"
         self.experience  = "9 years · computational genomics → clinical impact"
         self.education   = ["MS Bioinformatics, Indiana University",
                             "MS Biomedical Sciences, Symbiosis University"]
@@ -41,9 +41,10 @@ class ArunBoddapati(BioinformaticsScientist):
         return "Transform biological complexity into computational clarity."
 ```
 
-- 🏥 **Founding Bioinformatics Engineer** @ Mamidi Health — building **[AIVA](https://chat.aivaportal.com/)**, an AI variant-analysis platform cutting genetic diagnostics from **weeks → minutes**
+- 🧑‍💻 **Independent AI Strategy Consultant & Systems Architect** — building agentic AI tooling, advising clinical-AI startups, and leading proteomics research across concurrent roles
+- 🩺 **Strategy Advisor** to [Mamidi Health](https://chat.aivaportal.com/) — led the commercial launch of **AIVA**, an AI variant-interpretation platform cutting genetic diagnostics from **weeks → minutes**
 - 🧠 Designed an **LLM prompt-engineering framework** at CDC that cut Nextflow pipeline development time by **20–80%**
-- 🔬 Deployed a **RAG-enabled variant interpretation** engine hitting **80.5% ACMG accuracy** (vs. BIAS 75.3%, InterVar 60.7%)
+- 🔬 Benchmarked AIVA's **RAG-enabled variant interpretation** at a **94% case-solve rate** and **80.5% F1** vs. Exomiser, LIRICAL, BIAS-2015 & InterVar
 - 📚 Co-authored **15+ peer-reviewed papers** in *Cell*, *Immunity*, and *Science Advances*
 - 🏆 **Top 8 of 80+ teams** worldwide in WHO's global mock Mpox response
 
@@ -59,7 +60,7 @@ class ArunBoddapati(BioinformaticsScientist):
     </td>
     <td align="center" width="25%">
       <h3>🤖 AIVA</h3>
-      <sub>80.5% ACMG accuracy · RAG-powered</sub>
+      <sub>94% case-solve · 80.5% F1 · RAG</sub>
     </td>
     <td align="center" width="25%">
       <h3>🌊 Aquascope</h3>
