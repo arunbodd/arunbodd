@@ -4,7 +4,7 @@
 <!-- ====================== TYPING ANIMATION ====================== -->
 <p align="center">
   <a href="https://github.com/arunbodd">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=64FFDA&center=true&vCenter=true&width=720&lines=Strategic+Computational+Genomics+Leader;9+Years+%C2%B7+Research+to+Clinical+Implementation;LLM+%2B+RAG+%2B+Agentic+Systems+for+Life+Sciences;Architecting+Reproducible+Nextflow+Pipelines;Turning+Biological+Complexity+into+Computational+Clarity" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=64FFDA&center=true&vCenter=true&width=720&lines=Strategic+Computational+Genomics+Leader;9+Years+%C2%B7+Research+to+Clinical+Implementation;LLM+%2B+RAG+%2B+Agentic+Systems+for+Life+Sciences;Architecting+Reproducible+Nextflow+Pipelines;Biological+Complexity+to+Computational+Clarity" alt="Typing SVG" />
   </a>
 </p>
 
